@@ -1,4 +1,6 @@
 public class MultiThreading03 {
+    // Threadleri farklı objelerle kullandığımız zaman syncronized kullanırsak
+    // senkronizasyon problemi yaşarız. Bu gibi durumlarda, join kullanmalıyız.
     public static void main(String[] args) {
         Brackets obj1 = new Brackets();
         Brackets obj2 = new Brackets();
