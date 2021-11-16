@@ -1,3 +1,5 @@
+package javadevelopmentday03;
+
 public class WaitInterrupt {
     static public double bakiye = 0;
 
