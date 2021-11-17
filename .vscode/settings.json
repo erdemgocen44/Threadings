@@ -1,8 +1,9 @@
 {
   "java.project.sourcePaths": [
     "src",
+    "javasdevelopmentday03",
     "javadevelopmentday02",
-    "javasdevelopmentday03"
+    "javadevelopmentday03"
   ],
   "java.project.outputPath": "bin"
 }
