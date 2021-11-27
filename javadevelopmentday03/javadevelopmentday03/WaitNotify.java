@@ -1,6 +1,7 @@
 package javadevelopmentday03;
 
 public class WaitNotify {
+    // Notify, oncelik verilen threadin içinde kullanılır.
     static public double bakiye = 0;
 
     public static void main(String[] args) {

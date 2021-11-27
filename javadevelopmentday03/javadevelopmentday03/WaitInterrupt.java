@@ -3,6 +3,7 @@ package javadevelopmentday03;
 public class WaitInterrupt {
     static public double bakiye = 0;
 
+    // Wait oncelik veren threadin içinde kullanılır.
     public static void main(String[] args) {
         WaitInterrupt obj = new WaitInterrupt();
         Thread thread1 = new Thread(new Runnable() {

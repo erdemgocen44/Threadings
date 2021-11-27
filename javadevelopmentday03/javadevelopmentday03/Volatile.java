@@ -75,6 +75,7 @@ public class Volatile {
      */
     volatile public static int flag = 0;
 
+    // volatile kendisi bağımlı olunan objenin başında kullanılır.
     public static void main(String[] args) {
 
         Thread thread1 = new Thread(new Runnable() {
